@@ -72,8 +72,8 @@ Exiting the recommendation system.
 
 5.Conclusion :
 
-This project is centered on revolutionizing book recommendations through a sophisticated collaborative filtering system. Leveraging the K-Nearest Neighbors (KNN) algorithm with brute-force computation, our system offers personalized book suggestions based on user preferences. Focusing on enhancing user interaction, the system efficiently recommends the top 5 books aligned with individual tastes. Moreover, it adeptly handles challenges such as spelling errors and incomplete book titles, ensuring accurate and relevant recommendations.
+This project is centered on revolutionizing book recommendations through a sophisticated collaborative filtering system. Leveraging the K-Nearest Neighbors (KNN) algorithm with brute-force computation, the system offers personalized book suggestions based on user preferences. Focusing on enhancing user interaction, the system efficiently recommends the top 5 books aligned with individual tastes. Moreover, it adeptly handles challenges such as spelling errors and incomplete book titles, ensuring accurate and relevant recommendations.
 
-FOR MORE INFORMATION CHECK FILE NAMED "brs pdf"
+FOR MORE INFORMATION CHECK FILE NAMED "brs pdf."
 
 
